@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    width: 150px;
-    height: 80px;
+    width: 350px;
+    height: 180px;
     background-color: lightblue;
     position: absolute;
     top: 50%;
