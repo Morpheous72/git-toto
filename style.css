@@ -12,14 +12,13 @@ body {
 }
 
 .container {
-    <<<<<<< HEAD=======width: 350px;
+    width: 350px;
     height: 180px;
-    >>>>>>>test background-color: lightblue;
+    background-color: lightblue;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    <<<<<<< HEAD=======
 }
 
 label {
@@ -30,5 +29,4 @@ input {
     width: 180px;
     border: 2px solid red;
     border-radius: 10px;
-    >>>>>>>test
 }
